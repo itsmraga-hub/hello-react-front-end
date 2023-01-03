@@ -59,6 +59,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Rails React Frontend] <a name="about-project"></a>
 
+# [Rails Backend Repo Link](https://github.com/itsmraga-hub/hello-rails-back-end)
+
 > Describe your project in 1 or 2 sentences.
 
 **[Rails frontend]** is a...
